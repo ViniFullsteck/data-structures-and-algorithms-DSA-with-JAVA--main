@@ -58,21 +58,8 @@ If you are looking to enhance your DSA skills for interviews or to solidify your
    java ArrayExample
    ```
 
-## Resources
-
-- **YouTube Playlist by PepCoding & Sumeet Malik:** [Watch Here](https://lnkd.in/gYyUK4UZ)
-- **GitHub Repository Link:** [Explore the Code](https://lnkd.in/gRFG9qqp)
-
-## Contributing
-
-Feel free to fork this repository, make improvements, and submit pull requests. Contributions that enhance the quality of code and add more questions are highly appreciated!
-
-## Acknowledgments
-
-A huge thanks to PepCoding and Sumeet Malik for their exceptional tutorials and dedication to teaching. Their resources have been invaluable in my learning journey.
+onal tutorials and dedication to teaching. Their resources have been invaluable in my learning journey.
 
 ---
 
 Happy coding and happy learning! Remember, every day is an opportunity to write better code than you did yesterday. Keep learning, keep coding, and let's continue to grow together! 💪
-
-#CodingJourney #DSA #PepCoding #JavaProgramming #LearnToCode #TechCommunity #InterviewPrep #CodeBetter #HappyCoding #KeepLearning #DeveloperJourney
