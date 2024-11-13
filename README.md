@@ -40,7 +40,7 @@ If you are looking to enhance your DSA skills for interviews or to solidify your
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/dsa-learning-pepcoding.git
+   git clone https://github.com/Vinicius_SF/dsa-learning-pepcoding.git
    cd dsa-learning-pepcoding
    ```
 
