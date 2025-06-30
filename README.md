@@ -1,65 +1,69 @@
-# DSA Learning Journey with PepCoding
+Jornada de Aprendizado em DSA com PepCoding
+Introdução
+Bem-vindo ao meu repositório! 🚀 Esta é uma compilação da minha jornada de aprendizado em Estruturas de Dados e Algoritmos (DSA) utilizando Java, guiado pelo excelente conteúdo gratuito da PepCoding no YouTube, ministrado pelo brilhante instrutor Sumeet Malik. Nos últimos três meses, venho acompanhando esses tutoriais com dedicação, e estou animado para compartilhar meu progresso com você.
 
-## Introduction
+Se você está buscando aprimorar suas habilidades em DSA para entrevistas ou consolidar seu entendimento, este repositório é um ótimo ponto de partida. O código aqui segue boas práticas e abrange uma ampla variedade de tópicos, com mais de 20 questões em cada seção para garantir um aprendizado completo.
 
-Welcome to my repository! 🚀 This is a compilation of my journey in learning Data Structures and Algorithms (DSA) using Java, guided by the outstanding free content from PepCoding on YouTube, taught by the brilliant instructor, Sumeet Malik. Over the past three months, I have been diligently following these tutorials, and I am excited to share my progress with you.
+Tópicos Abordados
+Programação Básica com JAVA
 
-If you are looking to enhance your DSA skills for interviews or to solidify your understanding, this repository is a great place to start. The code here adheres to best practices and covers a wide range of topics, with over 20 questions in each section to ensure comprehensive learning.
+Conceitos fundamentais e sintaxe
 
-## Topics Covered
+Exercícios práticos
 
-1. **Basic Programming with JAVA**
-   - Fundamental concepts and syntax
-   - Hands-on exercises
+Padrões do Nível Iniciante ao Avançado
 
-2. **Patterns from Beginner to Advanced Level**
-   - Simple to complex pattern programs
-   - Visual understanding of loops and conditions
+Programas de padrões simples a complexos
 
-3. **Functions & Recursion**
-   - Understanding methods and recursion
-   - Problem-solving using recursive approaches
+Compreensão visual de laços e condições
 
-4. **Arrays**
-   - Array manipulation and algorithms
-   - Common interview questions
+Funções e Recursão
 
-5. **Stack & Queues**
-   - Implementation and applications
-   - Real-world problems
+Entendimento de métodos e recursividade
 
-6. **Linked List**
-   - Single, double, and circular linked lists
-   - Operations and interview problems
+Resolução de problemas usando abordagens recursivas
 
-7. **Tree**
-   - Binary trees, BSTs, and more
-   - Traversal techniques and applications
+Vetores (Arrays)
 
-## How to Use This Repository
+Manipulação de arrays e algoritmos
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/Vinicius_SF/dsa-learning-pepcoding.git
-   cd dsa-learning-pepcoding
-   ```
+Perguntas comuns de entrevistas
 
-2. **Navigate Through Topics:**
-   - Each topic is organized in its directory with relevant questions and solutions.
-   - Explore the directories to find code examples and explanations.
+Pilha e Filas (Stack & Queues)
 
-3. **Run the Code:**
-   - Ensure you have Java installed on your system.
-   - Compile and run the Java files using the terminal or an IDE of your choice.
+Implementação e aplicações
 
-   Example:
-   ```bash
-   javac ArrayExample.java
-   java ArrayExample
-   ```
+Problemas do mundo real
 
-onal tutorials and dedication to teaching. Their resources have been invaluable in my learning journey.
+Listas Ligadas (Linked List)
 
----
+Listas ligadas simples, duplas e circulares
 
-Happy coding and happy learning! Remember, every day is an opportunity to write better code than you did yesterday. Keep learning, keep coding, and let's continue to grow together! 💪
+Operações e problemas de entrevista
+
+Árvores (Tree)
+
+Árvores binárias, BSTs e mais
+
+Técnicas de travessia e aplicações
+
+Como Usar Este Repositório
+Clonar o Repositório:
+
+bash
+Copy
+Edit
+git clone https://github.com/Vinicius_SF/dsa-learning-pepcoding.git
+cd dsa-learning-pepcoding
+Navegar pelos Tópicos:
+
+Cada tópico está organizado em seu diretório com perguntas e soluções relevantes.
+
+Explore os diretórios para encontrar exemplos de código e explicações.
+
+Executar o Código:
+
+Certifique-se de ter o Java instalado em seu sistema.
+
+Compile e execute os arquivos Java usando o terminal ou uma IDE de sua preferência.
+
