@@ -46,15 +46,6 @@ Operações e problemas de entrevista
 Árvores binárias, BSTs e mais
 
 Técnicas de travessia e aplicações
-
-Como Usar Este Repositório
-Clonar o Repositório:
-
-bash
-Copy
-Edit
-git clone https://github.com/Vinicius_SF/dsa-learning-pepcoding.git
-cd dsa-learning-pepcoding
 Navegar pelos Tópicos:
 
 Cada tópico está organizado em seu diretório com perguntas e soluções relevantes.
